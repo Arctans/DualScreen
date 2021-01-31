@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">DualScreen</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="screen1_but1">Different 1</string>
+    <string name="screen1_but2">Different 2</string>
+    <string name="screen1_but3">MainScreen Test</string>
+    <string name="screen1_but4">Same Display</string>
+    <string name="screen1_text1">I am main screen</string>
+    <string name="screen2_but1">External Screen Test</string>
+    <string name="screen2_text1">I am External Screen</string>
+    <string name="button_up_left">Button Up Left</string>
+    <string name="button_up_right">Button Up Right</string>
+    <string name="button_bottom_left">button_bottom_left</string>
+    <string name="button_bottom_right">button_bottom_right</string>
+
+    <string name="click_external_screen">Click external screen!!!</string>
+    <string name="click_btn_bottom_left">Click bottom left button</string>
+    <string name="click_btn_bottom_right">Click bottom right button</string>
+    <string name="click_btn_up_left">Click up left button</string>
+    <string name="click_btn_up_right">Click up right button</string>
+    <string name="click_ok">Click OK</string>
+    <string name="external_click_screen_num">External Screen Click Num</string>
+
+
+
+</resources>

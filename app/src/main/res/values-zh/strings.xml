@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">DualScreen_Different_Input</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="screen1_but1">异显方式一</string>
+    <string name="screen1_but2">异显方式二</string>
+    <string name="screen1_but3">主屏测试</string>
+    <string name="screen1_but4">同显</string>
+    <string name="screen1_text1">当前我是主屏</string>
+    <string name="screen2_but1">副屏测试</string>
+    <string name="screen2_text1">当前我是副屏</string>
+    <string name="button_up_left">左上按钮</string>
+    <string name="button_up_right">右上按钮</string>
+    <string name="button_bottom_left">左下按钮</string>
+    <string name="button_bottom_right">右下按钮</string>
+
+    <string name="click_external_screen">点击了副屏！！</string>
+    <string name="click_btn_bottom_left">点击了左下按钮</string>
+    <string name="click_btn_bottom_right">点击了右下按钮</string>
+    <string name="click_btn_up_left">点击了左上按钮</string>
+    <string name="click_btn_up_right">点击了右上按钮</string>
+    <string name="click_ok">点击了 OK</string>
+    <string name="external_click_screen_num">副屏点击次数</string>
+
+</resources>

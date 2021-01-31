@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='DualScreen_Different_Input'
